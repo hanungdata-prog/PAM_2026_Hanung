@@ -8,4 +8,4 @@ Aplikasi menampilkan nama, NIM, dan platform yang digunakan.
 
 ## Screenshot Aplikasi
 
-![Screenshot Aplikasi](SS_SudahberjalanAndroid.png)
+![Screenshot Aplikasi](SS_SudahberjalanAndroid1.png)
