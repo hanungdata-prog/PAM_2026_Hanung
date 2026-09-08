@@ -7,4 +7,4 @@
 Aplikasi menampilkan nama, NIM, dan platform yang digunakan.
 
 ## Screenshot Aplikasi
-![Teks Alternatif](path/ke/gambar.png)
+![Halo](Screenshot 2026-09-08 124346.png)
