@@ -2,7 +2,7 @@
 
 **Nama:** Muhammad Irfan Ramadhan  
 **NIM:** 124140159
-**Kelas PAW :** RB
+**Kelas PAM :** RB
  
 Aplikasi menampilkan nama, NIM, dan platform yang digunakan.
 
