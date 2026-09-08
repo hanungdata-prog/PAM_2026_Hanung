@@ -7,4 +7,4 @@
 Aplikasi menampilkan nama, NIM, dan platform yang digunakan.
 
 ## Screenshot Aplikasi
-![Logo Projek](foto.png)
+![Logo Projek](foto_1.png)
