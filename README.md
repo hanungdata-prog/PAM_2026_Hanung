@@ -2,7 +2,7 @@
 
 **Nama:** Hanung Akbar Pramusintho
 **NIM:** 124140207
-**Kelas PAM :** RB
+**Kelas PAM :** RA
 
 Aplikasi menampilkan nama, NIM, dan platform yang digunakan.
 
