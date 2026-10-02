@@ -17,28 +17,3 @@ News Feed Simulator, proyek Kotlin untuk mensimulasikan aliran berita masuk. Pro
 ## Hasil program
 
 <img src="screenshot-output.png" width="430">
-
-## Struktur folder
-
-```
-src
-  main
-    kotlin
-      com.itera.pam.newsfeed
-        Main.kt
-        model   News.kt
-        data    NewsRepository.kt, ReadCounter.kt
-        ui      DisplayFormat.kt
-```
-
-## Cara menjalankan
-
-Lewat terminal, jalankan perintah berikut di folder proyek:
-
-```
-gradlew.bat run
-```
-
-Atau buka folder ini di Android Studio, tunggu Gradle sync selesai, lalu jalankan file `Main.kt` dengan klik ikon run di sebelah `fun main`.
-
-Program berjalan sekitar 13 detik karena berita baru muncul setiap 2 detik. Setelah 4 berita kategori Teknologi terkumpul, program langsung mengambil detail keempat berita itu secara paralel dan menampilkan total berita yang sudah dibaca.
